@@ -1,0 +1,19 @@
+.Taskbar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 27px;
+  outline: 1px solid var(--ButtonLight);
+  border-top: 1px solid var(--ButtonHilight);
+  background: var(--ButtonFace);
+  color: var(--ButtonText);
+  display: flex;
+  align-items: center;
+}
+
+.button_start {
+  font-weight: bold;
+  height: 24px;
+  margin: 0 5px;
+}

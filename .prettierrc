@@ -1,7 +1,1 @@
-{
-  "semi": false,
-  "singleQuote": true,
-  "tabWidth": 2,
-  "useTabs": false,
-  "react/tsx-curly-brace-presence": { "props": "never", "children": "never", "propElementValues": "never" }
-}
+{ "singleQuote": false, "printWidth": 120, "endOfLine": "auto","semi": false}

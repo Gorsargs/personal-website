@@ -1,7 +1,12 @@
-import './App.css'
+import Desktop from "./components/Desktop/Desktop"
+import Taskbar from "./components/Taskbar/Taskbar"
+import "./App.css"
 
-function App() {
-  return <div className="App">sd</div>
+const App = () => {
+  return <div className="App">
+    <Desktop/>
+    <Taskbar/>
+  </div>
 }
 
 export default App
