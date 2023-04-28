@@ -1,0 +1,8 @@
+.container {
+  position: fixed;
+  background: transparent;
+  opacity: 1;
+  border-style: dotted;
+  border: 1px black dashed;
+  
+}
